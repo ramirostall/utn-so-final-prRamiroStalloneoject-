@@ -10,6 +10,10 @@ app.use(express.json());
 
 // Routes
 app.get("/api/ping", (req, res) => res.json({ message: "pong" }));
+app.get("/api/greet", (req, res) => {
+  const name = req.query.name || "World";
+  res.json({ message: `Hello, ${name}!` });
+});
 app.get("/api/students", async (req, res) => {
   try {
     const result = await db.query("SELECT * FROM students");
