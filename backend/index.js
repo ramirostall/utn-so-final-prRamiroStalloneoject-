@@ -11,13 +11,13 @@ app.use(express.json());
 // Routes
 app.get("/api/ping", (req, res) => res.json({ message: "pong" }));
 app.get("/api/students", async (req, res) => {
-    try {
-        const result = await db.query("SELECT * FROM students");
-        res.json(result.rows);
-    } catch (err) {
-        console.error(err);
-        res.status(500).send("DB error");
-    }
+  try {
+    const result = await db.query("SELECT * FROM students");
+    res.json(result.rows);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("DB error");
+  }
 });
 
 // Start the server

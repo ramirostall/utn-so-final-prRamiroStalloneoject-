@@ -6,18 +6,33 @@
     <link rel="stylesheet" href="styles_modern.css" />
   </head>
   <body>
-      <h1>Lista de Estudiantes</h1>
-      <button id="loadButton">Cargar Estudiantes</button>
-      <table id="studentsTable">
-          <thead>
-              <tr>
-                  <th>Id</th>
-                  <th>Nombre</th>
-              </tr>
-          </thead>
-          <tbody></tbody>
-      </table>
-      <script src="script.js"></script>
+    <h1>Lista de Estudiantes</h1>
+    <button id="loadButton">Cargar Estudiantes</button>
+    <table id="studentsTable">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Nombre</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+    <script src="script.js"></script>
+    
+<input type="text" id="nameInput" placeholder="Escribí tu nombre">
+<button onclick="saludar()">Saludarme</button>
+<p id="saludo"></p>
+
+<script>
+  function saludar() {
+    const nombre = document.getElementById("nameInput").value;
+    fetch(`/greet?name=${encodeURIComponent(nombre)}`)
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById("saludo").innerText = data.message;
+      });
+  }
+</script>
 
   </body>
 </html>
