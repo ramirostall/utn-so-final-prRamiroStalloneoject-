@@ -10,13 +10,7 @@ Proyecto final de "Arquitectura y Sistemas Operativos"
 
 ## 🚀 Para comenzar:
 
-0. Asegurate de tener instalado Git!
-
-```bash
-   winget install --id Git.Git -e --source winget
-```
-
-1. Asegurate de tener Docker y Docker Compose instalados en tu máquina. Consulta la [Guía de Instalación de Docker](docs/0.InstalacionDocker.md) si necesitas ayuda.
+1. Asegúrate de tener Docker y Docker Compose instalados en tu máquina. Consulta la [Guía de Instalación de Docker](docs/0.InstalacionDocker.md) si necesitas ayuda.
 2. Copia `.env.example` a `.env` y revisa los valores, ajústalos si lo consideras necesario.
 3. Abre una terminal en la raíz del proyecto y ejecuta el siguiente comando para construir e iniciar los contenedores:
    ```bash

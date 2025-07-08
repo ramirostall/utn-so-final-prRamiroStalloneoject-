@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\nginx\\default.conf||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:nginx\\default.conf||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\docs\\2.TareasPracticas.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docs\\2.TareasPracticas.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\index.js",
+              "RelativeDocumentMoniker": "backend\\index.js",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\index.js",
+              "RelativeToolTip": "backend\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-07T04:14:50.049Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.conf",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\nginx\\default.conf",
+              "RelativeDocumentMoniker": "nginx\\default.conf",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\nginx\\default.conf",
+              "RelativeToolTip": "nginx\\default.conf",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-07T05:08:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\frontend\\index.html",
+              "RelativeDocumentMoniker": "frontend\\index.html",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\frontend\\index.html",
+              "RelativeToolTip": "frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-07T04:45:30.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\dockerfile",
+              "RelativeDocumentMoniker": "backend\\dockerfile",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\dockerfile",
+              "RelativeToolTip": "backend\\dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-07T04:38:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\db.js",
+              "RelativeDocumentMoniker": "backend\\db.js",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\backend\\db.js",
+              "RelativeToolTip": "backend\\db.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-07T04:38:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "2.TareasPracticas.md",
+              "DocumentMoniker": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\docs\\2.TareasPracticas.md",
+              "RelativeDocumentMoniker": "docs\\2.TareasPracticas.md",
+              "ToolTip": "C:\\Users\\Rama\\Desktop\\utn-so-final-project-main\\utn-so-final-project-main\\docs\\2.TareasPracticas.md",
+              "RelativeToolTip": "docs\\2.TareasPracticas.md",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwDAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-07-07T04:12:03.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
