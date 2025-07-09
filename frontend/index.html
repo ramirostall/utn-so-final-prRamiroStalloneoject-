@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <title>Estudiantes</title>
-    <link rel="stylesheet" href="styles_modern.css" />
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <h1>Lista de Estudiantes</h1>
@@ -18,21 +18,5 @@
       <tbody></tbody>
     </table>
     <script src="script.js"></script>
-    
-<input type="text" id="nameInput" placeholder="Escribí tu nombre">
-<button onclick="saludar()">Saludarme</button>
-<p id="saludo"></p>
-
-<script>
-  function saludar() {
-    const nombre = document.getElementById("nameInput").value;
-    fetch(`/greet?name=${encodeURIComponent(nombre)}`)
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById("saludo").innerText = data.message;
-      });
-  }
-</script>
-
   </body>
 </html>

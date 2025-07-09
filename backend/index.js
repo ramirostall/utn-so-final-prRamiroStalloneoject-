@@ -20,5 +20,10 @@ app.get("/api/students", async (req, res) => {
   }
 });
 
+app.get('/api/greet', (req, res) => {
+  const name = req.query.name || 'Mundo';
+  res.json({ message: `¡Hola, ${name}!` });
+});
+
 // Start the server
 app.listen(port, () => console.log(`App running on port ${port}`));
